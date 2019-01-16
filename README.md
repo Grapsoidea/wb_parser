@@ -1,8 +1,10 @@
-wb_parser
+#wb_parser
 
-Dependencies:
-    Python3
-    Scrapy
+**Dependencies:**
 
-How run: 
-    scrapy crawl wb_parser -o data.json
+    -Python3
+    -Scrapy
+
+**How to run:**
+
+    - scrapy crawl wb_parser -o data.json
